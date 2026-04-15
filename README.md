@@ -59,6 +59,8 @@ Two import modes for different workload profiles.
 
 ## Architecture
 
+> For a full technical deep-dive — pipeline phases, component contracts, error categories, SQL safety implementation, and testing strategy — see [**docs/ARCHITECTURE.md**](docs/ARCHITECTURE.md). A [PDF version](docs/Migratex_Showcase.pdf) of the product brief is also included.
+
 Modular pipeline architecture with clear separation of concerns.
 
 - **CLI layer** handles argument parsing and command routing
